@@ -20,3 +20,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       ['About', 'Archive']
