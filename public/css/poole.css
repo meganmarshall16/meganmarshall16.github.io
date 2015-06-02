@@ -422,4 +422,23 @@ a.pagination-item:hover {
 	top:1px;
 }
 
+  /* Button tags */
+.tag {
+	background-color:#2dabf9;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:6px 13px;
+	text-decoration:none;
+}
+.tag:hover {
+	background-color:#2dabf9;
+}
+.tag:active {
+	position:relative;
+	top:1px;
+}
+
 }
