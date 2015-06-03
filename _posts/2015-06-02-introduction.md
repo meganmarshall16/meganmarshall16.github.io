@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>Introduction</strong>
+title: Introduction
 date: 2015-06-02
 comments: true
 tags: [design,tech, productivity]
