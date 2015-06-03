@@ -2,9 +2,6 @@
 layout: page
 title: Tags
 ---
-
-## Tags
-
 {% if post.tags %}
 	{% for tag in post.tags %}
   	<a href="/tag#{{ tag }}" title="">{{ tag }}</a>
