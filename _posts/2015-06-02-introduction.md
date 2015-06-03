@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>"Introduction"</strong>
+title: <strong>Introduction</strong>
 date: 2015-06-02
 comments: true
 categories: [design,tech, productivity]
