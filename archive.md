@@ -3,8 +3,11 @@ layout: page
 title: Archive
 ---
 
-## Blog Posts
-
-{% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+<div class="archives" itemscope itemtype="http://schema.org/Blog">
+{% for post in site.posts reverse %}
+{% if post.layout == 'post' %}
+	{% include archive_post.html %}
+{% endif %}
 {% endfor %}
+  </ul>
+</div>
