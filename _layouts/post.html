@@ -5,9 +5,7 @@ layout: default
 {% if post.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in post.tags %}
-        {% for data_tag in site.data.tags %}
-            {% if data_tag.slug == post_tag %}
-                {% assign tag = data_tag %}
+    {% assign tag = site.data.tags[post_tag] %}
             {% endif %}
         {% endfor %}
         {% if tag %}
