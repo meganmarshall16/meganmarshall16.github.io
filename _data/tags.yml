@@ -1,23 +1,23 @@
-- slug: apple
+apple:
   name: apple
-
-- slug: bookmarking
+  
+bookmarking:
   name: bookmarking
 
-- slug: design
+design:
   name: design
 
-- slug: freelance
+freelance:
   name: freelance
   
-- slug: link list
+link list:
   name: link list
-
-- slug: productivity
-  name: productivity
   
-- slug: review
+productivity:
+  name: productivity
+
+review:
   name: review
 
-- slug: tech
+tech:
   name: tech
