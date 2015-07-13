@@ -1,5 +1,3 @@
-#This Week’s Link-List (04/12/15)
-
 Starting a new segment called the ‘Link-List’ where I post interesting links I have found all over the web. Here’s your first installment!
 
 * [How to Use Photos for OS X: The Ultimate Guide | iMore](http://www.imore.com/how-use-photos-os-x-ultimate-guide)
