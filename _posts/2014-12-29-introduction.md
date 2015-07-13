@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-date: 2015-06-02
+date: 2014-12-29
 comments: true
 tags: [design,tech, productivity]
 ---
