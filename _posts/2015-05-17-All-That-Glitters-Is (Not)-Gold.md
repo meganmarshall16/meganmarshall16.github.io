@@ -5,7 +5,7 @@ date: 2015-05-17
 comments: true
 tags: [apple, review]
 ---
-![Macbook](http://meganmarshall16.github.io/_posts/img/applemacbook.png)
+![Macbook](https://github.com/meganmarshall16/meganmarshall16.github.io/blob/master/_posts/img/applemacbook.png?raw=true)
 
 A while ago, Apple announced a new line of MacBooks adorned with silver, gold, and space grey colours. While I have yet to sit down and try it out, online reviews across the web have spoken of its issues - namely the USB C port and all it’s dongles. The new MacBook improves itself with it’s butterfly key mechanism, Force Touch trackpad, fanless interior, and 236 ppi, 2304 x 1440 pixels Retina display (although you do have the option to use 1440 x 900 pixel display). It’s processor is built for basic computing that isn’t too heavy on the CPU usage.
 
