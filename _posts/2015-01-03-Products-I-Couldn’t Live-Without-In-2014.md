@@ -1,5 +1,3 @@
-#Products I Couldn’t Live Without In 2014
-
 I feel the best way to start the new year is to say goodbye to the old one. Here is this year’s most loved products apps that I could not have lived without.
 
 **Medium** - best reading platform. I cannot explain how many countless articles and gems I find on this site. And prior to 2014, I had no idea this site existed! A daily routine has been browsing the top reads and saving them to Pocket. So much insight has been gained from articles written by completely different people.
