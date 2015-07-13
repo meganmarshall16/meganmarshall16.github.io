@@ -1,3 +1,11 @@
+---
+layout: post
+title: Looking at Medium
+date: 2015-04-20
+comments: true
+tags: [review]
+---
+
 ![Medium Logo](/_posts/img/Medium-logo-dark500.png)
 
 My time on [**Medium**](https://medium.com) has been short-lived, however, in the past few months I managed to read and gather information, opinions, and tips on countless subjects ranging from politics to productivity. Medium is a blogging platform with an emphasis on simple and minimal typography and design. All users of Medium must sign-up through an existing Twitter account in order to use their service. Then, once connected, can the user browse articles through search or tags, by publication or author, or even though the Medium staff’s top stories on the home page. Users can also recommend stories, comment/highlight pieces they find important or interesting, and bookmark articles for later retrieval.
